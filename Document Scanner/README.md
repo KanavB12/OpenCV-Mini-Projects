@@ -6,8 +6,8 @@ Steps followed:-
 5. Done.
 
 Original Image:- <br>
-![](Scan.jpeg)
+![](Image2.jpg)
 
 Scanned Result:- <br>
-![](Scanned_Image.png)
+![](Scan2.jpg)
 
