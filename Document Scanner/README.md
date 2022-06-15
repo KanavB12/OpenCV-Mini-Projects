@@ -5,4 +5,9 @@ Steps followed:-
 4. Applying a perspective tranform to the resultant image
 5. Done.
 
-For code and results see the python notebook.
+Original Image:- <br>
+![](Scan.jpeg)
+
+Scanned Result:- <br>
+![](Scanned Image.png)
+
