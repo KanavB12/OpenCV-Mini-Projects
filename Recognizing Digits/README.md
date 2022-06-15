@@ -1,6 +1,6 @@
-Input Image
+Input Image<br>
 ![](example.webp)
 
 
-Result:-
+Result:-<br>
 ![](Output.png)
