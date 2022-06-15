@@ -9,5 +9,5 @@ Original Image:- <br>
 ![](Scan.jpeg)
 
 Scanned Result:- <br>
-![](Scanned Image.png)
+![](Scanned_Image.png)
 
